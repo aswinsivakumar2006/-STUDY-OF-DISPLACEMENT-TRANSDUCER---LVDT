@@ -1,7 +1,11 @@
 # -STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
+Aswin.S(212223210004)
+
 
 AIM
 To study the operation of LVDT- Linear Variable Differential Transformer
+
+
 OBJECTIVE:
 1. To study the basic principle of LVDT.
 2. Study of signal conditioning circuit.
@@ -27,9 +31,12 @@ voltages are noted down.
 7. The screw gauge is adjusted for maximum displacement and then stopped.
 8. A graph between displacement and output voltage is drawn.
 
+<img width="1686" height="973" alt="Screenshot 2025-12-01 195852" src="https://github.com/user-attachments/assets/b3d2b640-6aee-483c-ab8a-fa09dc14a0ec" />
 
-<img width="575" height="457" alt="image" src="https://github.com/user-attachments/assets/99a3dafe-99f5-4b37-ba07-2c82b84cb5bd" />
+<img width="1714" height="716" alt="Screenshot 2025-12-01 195909" src="https://github.com/user-attachments/assets/d844497c-c360-4777-ba3a-5ee8b458c57e" />
+
+<img width="1197" height="730" alt="Screenshot 2025-12-01 195923" src="https://github.com/user-attachments/assets/162921c2-cf4e-4c86-8b43-ea4f7c5c484a" />
 
 RESULT:
 
-
+Thus the operation of LVDT was studied and the displacemnt was measured.
